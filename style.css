@@ -1,0 +1,144 @@
+.gambart{
+    width: 5rem;
+    height: 5rem;
+}
+
+.gambar1{
+    border-radius: 50%;
+    transition: 0.5s;
+}
+
+.gambar1:hover{
+    transform: scale(1.1);
+}
+
+.sekolah-isi{
+    transition: 0.5s;
+}
+
+.sekolah-isi:hover{
+    transform: scale(0.9);
+}
+
+.logomts{
+    width: 170px;
+    height: 200px;
+}
+
+.about-des{
+    font-size: 20px;
+}
+
+.logosmk{
+    width: 180px;
+    height: 210px;
+}
+
+.logohtml{
+    width: 100px;
+    height: 100px;
+    transition: 0.4s;
+}
+
+.logohtml:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.logocss{
+    width: 130px;
+    height: 130px;
+    transition: 0.4s;
+}
+
+.logocss:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.logojs{
+    width: 180px;
+    height: 100px;
+    transition: 0.4s;
+}
+
+.logojs:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.logoc{
+    width: 105px;
+    height: 120px;
+    transition: 0.4s;
+}
+
+.logoc:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.logofigma{
+    width: 105px;
+    height: 120px;
+    transition: 0.4s;
+}
+
+.logofigma:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+    
+}
+
+.logowp{
+    width: 120px;
+    height: 120px;
+    transition: 0.4s;
+}
+
+.logowp:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.gambar-game{
+    width: 100px;
+    height: 50px;
+}
+
+
+.kontak{
+    width: 100%;
+}
+
+.bungkus-icon a i{
+    color: white;
+    transition: 0.3s;
+}
+
+
+.bungkus-icon a i:hover{
+    transform: scale(0.9);
+    color: rgb(152, 172, 171);
+}
+
+@media only screen and (max-width: 766px) {
+    .des-home{
+        font-size: 20px;
+    }
+
+   .bungkus-home p{
+       text-align: center;
+   }
+   .bungkus-home h1{
+    text-align: center;
+   }
+   .bungkus-home h2{
+    text-align: center;
+   }
+   .bungkus-home a{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+   }
+  }
