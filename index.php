@@ -186,7 +186,7 @@
             <div class="row">
               <div class="col-md-6 col-lg-4 hover-zoom">
                 <div class="isi-portofolio">
-                  <img src="cek-kodam.PNG" alt="Web Login Wifi " class="hover-zoom w-200 img-thumbnail">
+                  <img src="cek-kodam.jpeg" alt="Web Login Wifi " class="hover-zoom w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">Website Cek Khodam</h3>
                   <p class="mb-4"><a href="https://wifihiru.github.io/wifihirugithub.io/" class="btn btn-danger px-3 text-decoration-none">Kunjungi</a></p>
                 </div>
@@ -195,7 +195,7 @@
 
               <div class="col-md-6 col-lg-4">
                 <div class="isi-portofolio">
-                  <img src="wordpress-projek.PNG" alt="Website Wisata Wonosobo" class="w-200 img-thumbnail">
+                  <img src="wordpress-projek.jpeg" alt="Website Wisata Wonosobo" class="w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">Website Wisata Wonosobo</h3>
                   <p class="mb-4"><a href="https://hirutoty.wordpress.com/" class="btn btn-danger px-3 text-decoration-none">Kunjungi</a></p>
                 </div>
@@ -203,7 +203,7 @@
               
               <div class="col-md-6 col-lg-4">
                 <div class="isi-portofolio">
-                  <img src="desain-figma-2.PNG" alt="UI Legend Cafe " class="w-200 img-thumbnail">
+                  <img src="desain-figma-2.jpeg" alt="UI Legend Cafe " class="w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">UI Web Legend Cafe</h3>
                   <p class="mb-4"><a href="https://www.figma.com/proto/aX8SZltnO1wrWCUx20BCYA/Legend-Web?node-id=163-56&node-type=canvas&t=8wdTwpcMqKoyZ6oj-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=163%3A56" class="btn btn-danger px-3 text-decoration-none">Kunjungi</a></p>
                 </div>
@@ -211,7 +211,7 @@
 
               <div class="col-md-6 col-lg-4">
                 <div class="isi-portofolio">
-                  <img src="desain-figma1.PNG" alt="UI App Dieng Culture Festival" class="w-200 img-thumbnail">
+                  <img src="desain-figma1.jpeg" alt="UI App Dieng Culture Festival" class="w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">UI App Dieng Culture Festival</h3>
                   <p class="mb-4"><a href="https://www.figma.com/proto/43NBmU5g1e8nT8m02WYKjW/PSAT_HIRUTOTYRIAWAN?node-id=1-9&node-type=canvas&t=Qfsf4GnW5xlkuDBD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A9" class="btn btn-danger px-3 text-decoration-none">Kunjungi</a></p>
                 </div>
@@ -219,7 +219,7 @@
   
               <div id="dpgame" class="col-md-6 col-lg-4">
                 <div class="isi-portofolio">
-                  <img src="pr-game.PNG" alt="Game Drag & Drop master" class="w-200 img-thumbnail">
+                  <img src="pr-game.jpeg" alt="Game Drag & Drop master" class="w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">Drag & Drop Game Master</h3>
                   <p class="mb-4"><a href="#dpgame" class="btn btn-danger px-3 text-decoration-none">Belum bisa dibuka</a></p>
                 </div>
@@ -227,7 +227,7 @@
 
               <div id="loginwifi" class="col-md-6 col-lg-4">
                 <div class="isi-portofolio">
-                  <img src="web-loginwifi.PNG" alt="Website Login Wifi" class="w-200 img-thumbnail">
+                  <img src="web-loginwifi.jpeg" alt="Website Login Wifi" class="w-200 img-thumbnail">
                   <h3 class="text-capitalize fs-5 my-2">Website Login Wifi</h3>
                   <p class="mb-4"><a href="#loginwifi" class="btn btn-danger px-3 text-decoration-none">Belum bisa dibuka</a></p>
                 </div>
